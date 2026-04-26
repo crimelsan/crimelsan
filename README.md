@@ -12,4 +12,5 @@ Here is a project table to navigate through the projects I have worked on:
 | :--- | :---: | ---: |
 | [Personal Website](https://github.com/crimelsan/personal-site) | Done | A website showcasing personal stuff such as blogs, music, and photos mainly. |
 | [October Game Jam (Shotgun Sheet Ghost)](https://github.com/crimelsan/OctoberGameJam) | WIP | A game jam game made for UIC's SIG Indie Development.|
-| Campus Safety App | WIP | A media app deticated to showing any crime around campuses in order to ensure safety.|
+| [Campus Safety App](https://github.com/tsuyosi81/UIC_Campus_App) | WIP | A media app deticated to showing any crime around campuses in order to ensure safety.|
+| [Sparkhacks 2025 Order Tracking Website](https://github.com/tsuyosi81/SparkHacks2025) | Done | A website submitted to Sparkhacks 2025 deticated to tracking orders for small businesses online.|
