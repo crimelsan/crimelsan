@@ -10,5 +10,6 @@ Here is a project table to navigate through the projects I have worked on:
 
 | Project | Status | Description |
 | :--- | :---: | ---: |
-| Personal Website | Done | A website showcasing personal stuff such as blogs, music, and photos mainly. |
-| October Game Jam (Shotgun Sheet Ghost) | WIP | A game jam game made for UIC's SIG Indie Development.|
+| [Personal Website](https://github.com/crimelsan/personal-site) | Done | A website showcasing personal stuff such as blogs, music, and photos mainly. |
+| [October Game Jam (Shotgun Sheet Ghost)](https://github.com/crimelsan/OctoberGameJam) | WIP | A game jam game made for UIC's SIG Indie Development.|
+| Campus Safety App | WIP | A media app deticated to showing any crime around campuses in order to ensure safety.|
